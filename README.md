@@ -1,9 +1,9 @@
 ## Tudo certo? Sou o Andrei Romero
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreisromero&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="40%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreisromero&theme=aura&hide_border=true" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreisromero&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" /> </br>
+  <p><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=andreisromero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="andreisromero" /></p>
+    <p><img align="center" src="https://github-readme-stats.shion.dev/api?username=andreisromero&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
+    <p><img align="center" src="https://streak-stats.demolab.com/?user=andreisromero&theme=dark&hide_border=false)<br/" /></p>
 </div>
 
 <div style="display: inline_block"><br>
