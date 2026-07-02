@@ -1,15 +1,17 @@
 ## Tudo certo? Sou o Andrei Romero
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=andreisromero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="andreisromero" /></p>
-    <p><img align="center" src="https://github-readme-stats.shion.dev/api?username=andreisromero&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
-    <p><img align="center" src="https://streak-stats.demolab.com/?user=andreisromero&theme=dark&hide_border=false)<br/" /></p>
+  <p><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=andreisromero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="andreisromero" width="40%"/></p>
+    <p><img align="center" src="https://github-readme-stats.shion.dev/api?username=andreisromero&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="40%" />
+ </p>
+    <p><img align="center" src="https://streak-stats.demolab.com/?user=andreisromero&theme=dark&hide_border=false)<br/" width="40%"/>
+    </p>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
   
